@@ -1,8 +1,8 @@
 {
   "name": "url-shortener",
   "version": "0.0.1",
-  "description": "",
-  "author": "",
+  "description": "An URL shortener application built with NestJS framework",
+  "author": "Murilo Andrade",
   "license": "MIT",
   "scripts": {
     "build": "tsc -p tsconfig.build.json",
